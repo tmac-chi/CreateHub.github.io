@@ -8,7 +8,8 @@ function random(array) {
 }
 
 nothing.addEventListener("click", () => {
-    const text = `GET YOUR ASS UP YOU LAZY PIECE OF SHIT!!! #${random(hashtag)}`;
+    const text = `ECCCKKKK! Wrong choice! Do better you lazy ass! #${random(hashtag)}`;
+    msg.textContent = text;
     nothing.remove();
 });
 
@@ -29,7 +30,7 @@ drawing.addEventListener("click", () => {
     
     const easy = document.getElementById("easy");
     easy.addEventListener("click", () => {
-        const text = `Draw ${random(traveler)}. In stick figure if you arereally that big of a loser. #${random(hashtag)}`;
+        const text = `Pick up a pen and a paper and draw ${random(traveler)}. In stick figure if you are really that big of a loser. #${random(hashtag)}`;
         msg.textContent = text;
     });
 
@@ -41,7 +42,7 @@ drawing.addEventListener("click", () => {
 
     const difficult = document.getElementById("difficult");
     difficult.addEventListener("click", () => {
-        const text = `Draw ${random(traveler)} ${random(time)} ${random(locations)}. Make it insteresting. #${random(hashtag)}`;
+        const text = `Draw ${random(traveler)} ${random(time)} ${random(locations)}. Make it insteresting than yo mama. #${random(hashtag)}`;
         msg.textContent = text;
     });
 
