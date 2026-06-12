@@ -13,7 +13,8 @@ const danger = ["a harmless", "an unsettling", "a thrilling", "a dangerous", "a 
 
 const discovery = ["hidden truth", "nothing of consequence", "treasure", "scientific breakthrough", "new species", "hidden place", "ghost",]
 
-const hashtag = ["sackapatate", "crybaby", "punk", "loser", "whimp",]
+const hashtag = ["sackapatate", "crybaby", "punk", "loser", "whimp", "couchpotato", "notablecoward", "worm", "pigeonliver", "twekesburymustard",
+                "foolofaTook", "loon"]
 
 const punish = ["death by public stoning", "a 2-week all-inclusive stay in the 16th floor of hell", "hanging", "mask of shame", "electric chair", "death row",
                "the guillotine", "to walk the plank", "death by lethal injection",]
