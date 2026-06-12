@@ -1,0 +1,19 @@
+body {
+    font-family: Copperplate, Papyrus, fantasy;
+    padding: 20px;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    align-items: center;
+    display: flex;
+}
