@@ -1,10 +1,9 @@
 body {
     font-family: Copperplate, Papyrus, fantasy;
     padding: 20px;
-    margin: 0;
+    margin: 25px 75px 25p 75px;
     height: 100vh;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -14,6 +13,13 @@ button {
     font-size: 18px;
     padding: 10px 20px;
     border-radius: 25px;
+    align-items: center;
+    display: flex;
+}
+
+#msg {
+    font-size: 30px;
+    padding: 10px 20px;
     align-items: center;
     display: flex;
 }
