@@ -48,7 +48,7 @@ drawing.addEventListener("click", () => {
 
     const ultra = document.getElementById("ultra");
     ultra.addEventListener("click", () => {
-        const text = `Good. Now you are ${random(painter)} reincernated. You are commisioned by ${random(company)} to draw a masterpiece of ${random(traveler)} ${random(locations)}. The punishment for failing this job is ${random(punish)}. Good luck.`;
+        const text = `Good. Now you are ${random(painter)} reincarnated. You are commisioned by ${random(company)} to draw a masterpiece of ${random(traveler)} ${random(locations)}. The punishment for failing this job is ${random(punish)}. Good luck.`;
         msg.textContent = text;
     });
 });
