@@ -15,8 +15,10 @@ const discovery = ["hidden truth", "nothing of consequence", "treasure", "scient
 
 const hashtag = ["sackapatate", "crybaby", "punk", "loser", "whimp",]
 
-const punish = ["be stoned to death", "a 2-week all-inclusive stay in the 16th floor of hell", "hanging", "mask of shame",]
+const punish = ["death by public stoning", "a 2-week all-inclusive stay in the 16th floor of hell", "hanging", "mask of shame", "electric chair", "death row",
+               "the guillotine", "to walk the plank", "death by lethal injection",]
 
-const company = ["the Catholic church", "Scientology", "Elon Musk", "FIFA", "the Satanic church", "a softdrink company",]
+const company = ["the Catholic church", "Scientology", "Elon Musk", "FIFA", "the Satanic church", "a softdrink company", "the Italian mafia",
+                "the Peaky Blinders", "the Avengers", "the Justice League", "Kim Jong Un", "BMW", "the Professional Dog-Walking Association",]
 
-const painter = ["Leonardo DaVinci", "Monet", "Vemeer", "Picasso", "Van Gogh",]
+const painter = ["Leonardo DaVinci", "Monet", "Vemeer", "Picasso", "Van Gogh", "Antonio Gaudi", "Banksy",]
